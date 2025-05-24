@@ -29,6 +29,7 @@ The movie recommendation system that leverages a hybrid approach, combining Coll
    - Tunning α,experimentally determined to balance personalization (CF) and content relevance (CBF). For example, higher α emphasizes user similarity, while lower α prioritizes movie features.
 
 ## Structure 
+```Bash
 📁 Data/
 │   ├── movies.dat          # Raw movie data ( MovieLens movie details)
 │   ├── ratings.dat        # Raw user ratings data
@@ -45,6 +46,7 @@ The movie recommendation system that leverages a hybrid approach, combining Coll
 │   ├── app.py            # Script for the application interface
 📄 Requirements.txt         # List of required Python packages
 📄 README.md               # Project documentation 
+```
 
 ## Tools and Libraries
 - Python
@@ -65,6 +67,7 @@ The movie recommendation system that leverages a hybrid approach, combining Coll
   
 
   
+![Screenshot 2025-05-23 172118](https://github.com/user-attachments/assets/f832c86b-abd5-434f-ac7a-2550e3fdaa6e)
 
 
 
